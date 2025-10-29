@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "tdrill",
+    "slug": "tdrill",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/photo_2025-10-29_01-15-45.jpg",
+    "scheme": "tdrill",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f1434",
+        "foregroundImage": "./assets/images/photo_2025-10-29_01-15-45.jpg",
+        "backgroundImage": "./assets/images/photo_2025-10-29_01-15-45.jpg",
+        "monochromeImage": "./assets/images/photo_2025-10-29_01-15-45.jpg"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.uelsedi35.tdrill"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      "expo-sqlite"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f0ec2f78-8fd7-4d51-92e1-ff9b5e08b054"
+      }
+    }
+  }
+}
