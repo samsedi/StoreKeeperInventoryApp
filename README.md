@@ -9,7 +9,10 @@
 demo pictures
 https://github.com/samsedi/StoreKeeperInventoryApp/blob/main/assets/images/photo_2025-12-11_11-25-49.jpg?raw=true
 
+assets/images/photo_2025-12-11_11-25-56.jpg
 
+assets/images/photo_2025-12-11_11-26-07.jpg
+assets/images/photo_2025-12-11_11-26-01.jpg
 
 
 
