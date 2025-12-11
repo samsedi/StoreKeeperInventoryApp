@@ -6,16 +6,7 @@
 
 # The demo video link is (https://drive.google.com/drive/folders/1J0XNqhSqnJDr3WCvBxD9gHNgo-T3ef-w)
 
-demo pictures
-https://github.com/samsedi/StoreKeeperInventoryApp/blob/main/assets/images/photo_2025-12-11_11-25-49.jpg?raw=true
-
-assets/images/photo_2025-12-11_11-25-56.jpg
-
-assets/images/photo_2025-12-11_11-26-07.jpg
-assets/images/photo_2025-12-11_11-26-01.jpg
-
-Demo Screenshots
-
+Demo pictures
 <p align="center">
 <img src="https://github.com/samsedi/StoreKeeperInventoryApp/blob/main/assets/images/photo_2025-12-11_11-25-49.jpg?raw=true" width="200" alt="Screenshot 1">
 <img src="assets/images/photo_2025-12-11_11-25-56.jpg" width="200" alt="Screenshot 2">
